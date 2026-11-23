@@ -1,0 +1,4 @@
+# Replace with the packages and versions used in your project
+numpy==2.2.6
+matplotlib==3.10.8
+pytest==9.2.0
